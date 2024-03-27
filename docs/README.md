@@ -5,10 +5,10 @@ Esta pasta armazena a documentação do projeto para a disciplina de **Trabalho 
 A documentação do projeto inclui as seguintes seções:
 
 1. Introdução
-2. Contexto
+2. Pensamos nesse projeto com intenção de ajudar os leitores a ter uma variedade de livros sem ter maiores gastos com livros novos, sendo que existem pessoas com livros que não usam mais e poderiam negociar entre si para chegar a um acordo entre os dois, assim também colaborando com o meio ambiente com menos consumo exagerado.
 3. Concepção
-4. Metodologia
-5. Solução
+4. Realizar trocas e vendas de livros usados entre os usuários.
+5. Desenvolver uma plataforma on-line de negociação de livros entre usuarios para realizarem essas trocas sem maiores impecilios.
 6. FAQ (Questões frequentes)
 7. Referências Bibliográficas
 
@@ -21,6 +21,8 @@ Esta seção traz explicações breves sobre o conjunto de artefatos que precisa
 ## Problema
 
 Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
+
+A nossa aplicação pensa em resolver problemas de leitores que tem diversos livros em casa que já leu e só ficam guardados tomando espaço e que queiram renovar a sua estante de livro podendo fazer isso de uma forma Mais barata Comprando e revendendo Livros entre esses leitores Pensamos também na parte Sustentável do planeta pois não tem um consumo exagerado desses livros e possam não tomar espaço na estante desses leitores podendo ser efetuadas trocas e vendas por um valor mais justo por já serem livros usados.
 
 Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
