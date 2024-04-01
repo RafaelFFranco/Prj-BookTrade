@@ -87,11 +87,13 @@ Como universitário, estou sempre em busca de maneiras de economizar dinheiro co
 Os requisitos de um projeto são classificados em dois grupos:
 
 - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
-  correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
+  Cadastro de usuarios, cadastro de produtos (livros), chat entre comprador e vendedor, sistema de avaliação de vendedor, pagina    de anuncio, filtro de busca.
+  {correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).}
 - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
+  Suporte a navegadores Edge, Chrome, Opera.
+  {correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).}
 
-Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+{Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.}
 
 **Links Úteis**:
 
