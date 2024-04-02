@@ -87,14 +87,18 @@ Como universitário, estou sempre em busca de maneiras de economizar dinheiro co
 
 Os requisitos de um projeto são classificados em dois grupos:
 
-- [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
-  Cadastro de usuarios, cadastro de produtos (livros), chat entre comprador e vendedor, sistema de avaliação de vendedor, pagina    de anuncio, filtro de busca.
-  {correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).}
-- [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  Suporte a navegadores Edge, Chrome, Opera.
-  {correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).}
+- [Requisitos Funcionais (RF)]: RF1: Leitores e fornecedores podereão se cadastrar.
+                                RF2: Leitores e fornecedores poderão negociar dentro do sistema.
+                                RF3: Leitores poderão consultar livros.
+                                RF4: Fornecedores poderão casdastras livros no sistema para troca ou venda.
+                                RF5: Leitores poderão avaliar Fornecedores.
+                                RF6: Fornecedores poderão avaliar Leitores
+                                RF7: Leitores poderão filtrar a busca de livros por gênero litarário.
+  
+- [Requisitos Não Funcionais (RNF)]: RFN1: O sistema será desenvolvido usando HTML, CSS, JAVA.
+                                     RFN2: Suporte a diversos navegadores: Edge, Opera, Chrome, Firefox.
+                                     RFN2: Suporte a diversas plataformas (Computadores, Notebook, Tablet, Celulares).
 
-{Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.}
 
 **Links Úteis**:
 
