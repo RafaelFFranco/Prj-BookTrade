@@ -141,13 +141,47 @@ Os requisitos de um projeto são classificados em dois grupos:
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+**Página Inicial:**
+1. O usuário acessa o site de troca de livros.
+2. Ele é recebido com uma página inicial que destaca os recursos principais do site e algumas recomendações de livros em destaque.
 
-**Links Úteis**:
+**Registro/Login:**
+1. Se o usuário já possui uma conta, ele faz login.
+2-Se não, ele é direcionado para se registrar, fornecendo informações básicas como nome, email e senha.
 
-- [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-- [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-- [Top 25 User Flow Tools &amp; Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+**Perfil do Usuário:**
+1. Depois de fazer login, o usuário é levado ao seu perfil, onde pode editar suas informações pessoais, como endereço de entrega e preferências de gênero de livros.
+
+**Explorar Livros Disponíveis:**
+1. O usuário pode navegar pelos livros disponíveis para troca, filtrando por gênero, autor ou título.
+2. Ele pode visualizar detalhes de cada livro, como título, autor, sinopse e avaliações de outros usuários.
+3. Ele pode visualizar a qualidade do livro que deseja antes de fazer a troca
+
+**Selecionar Livro para Troca:**
+1. Quando o usuário encontra um livro que deseja, ele seleciona o livro e verifica se o proprietário está disposto a trocá-lo.
+2. Ele pode adicionar o livro ao seu carrinho de troca.
+3-Ele pode conferir as avaliações do proprietário do livro
+
+**Concluir a Troca:**
+1. O usuário pode revisar os livros em seu carrinho de troca e confirmar a troca.
+2. Ele pode enviar uma solicitação de troca para o proprietário do livro desejado.
+
+**Confirmação da Troca:**
+1. O proprietário do livro recebe a solicitação de troca e decide se aceita ou rejeita.
+2. Se aceito, os detalhes da troca são confirmados, incluindo informações de envio ou local de troca.
+
+**Envio e Recebimento dos Livros:**
+1. Os usuários enviam os livros para troca conforme combinado.
+2. Assim que os livros forem recebidos, ambas as partes confirmam a conclusão da troca.
+3. Caso seja de escolha, eles podem marcar um local para fazer a entrega 
+
+**Avaliação da Troca:**
+1. Os usuários têm a oportunidade de avaliar a troca, fornecendo feedback sobre a experiência.
+2. Avaliando a troca o usuário consegue ter maiores chances de trocar de livros
+
+**Explorar Outros Recursos:**
+1. Além das trocas de livros, o usuário pode explorar outros recursos do site, como fóruns de discussão, comunidades, grupos no whatsapp.
+
 
 ## Wireframes
 
