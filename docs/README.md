@@ -46,6 +46,11 @@ Porquê: Este tema foi escolhido devido à importância de promover a leitura, i
 
 O que: A função deste projeto é desenvolver uma aplicação de troca de livros que permita aos usuários listar os livros que desejam trocar, procurar títulos de interesse e entrar em contato com outros usuários para organizar as trocas. A aplicação também pode incluir recursos de comunidade, como fóruns de discussão e avaliações de livros, para promover a interação entre os membros da comunidade de leitores.
 
+
+Quem: O público-alvo desta obra são leitores frequentes, estudantes, famílias e qualquer pessoa interessada em expandir sua coleção de livros sem gastar muito dinheiro. A aplicação visa atender a uma ampla variedade de usuários, desde aqueles que buscam títulos específicos até aqueles que desejam descobrir novas obras e autores.
+
+Base: Esta justificativa está baseada em diversas fontes de informações, incluindo pesquisas acadêmicas sobre os benefícios da leitura, estudos de mercado sobre hábitos de leitura e consumo de livros, análises de tendências de consumo sustentável e feedback de usuários potenciais obtido por meio de questionários e entrevistas. Essas fontes fornecem uma base sólida para entender a importância e a relevância deste projeto, bem como para definir objetivos específicos e direcionar o desenvolvimento da aplicação de troca de livros.
+
 ## Público-Alvo
 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
