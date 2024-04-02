@@ -30,7 +30,7 @@ A nossa aplicação pensa em resolver problemas de leitores que tem diversos liv
 
 ## Objetivos
 
-O projeto "Booktrade" visa resolver problemas de leitores que querem ler uma variedade de livros e não têm capital para investir em conhecimento na forma de livros. Assim, os leitores dispensam o desgaste físico de ir até uma livraria para procurar os livros que desejam ler; além disso, o projeto considera a circunstância financeira da pessoa, visando em ajudá-a, dessa forma ela pode ou trocar ou comprar o livro utilizando a plataforma.
+O projeto "Booktrade" visa resolver problemas de leitores que querem ler uma variedade de livros e não têm capital para investir. Assim, os leitores dispensam não só o desgaste físico de ir até uma livraria como também dispensam a árdua procura para encontrar os livros que desejam ler; além disso, o projeto considera a circunstância financeira da pessoa, visando em ajudá-a, dessa forma ela pode ou trocar ou comprar o livro utilizando a plataforma.
 
 **Links Úteis**:
 
