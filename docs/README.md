@@ -54,14 +54,40 @@ Base: Esta justificativa está baseada em diversas fontes de informações, incl
 
 ## Personas
 
-Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
+* Persona 1 Leitor: Camila, Estudante Universitária 
+* Nome: Camila 
+* Idade: 21 anos 
+* Hobby: Camila adora ler e está sempre em busca de novas histórias para se envolver. 
+* Trabalho: Camila é estudante universitária, cursando Letras.  
+* Personalidade: Curiosa, criativa e consciente. Camila é uma pessoa sociável e adora compartilhar suas descobertas literárias com amigos. 
+* Sonhos: Camila sonha em se tornar uma escritora reconhecida e viajar o mundo para buscar novas inspirações para suas histórias. Além disso, também espera criar uma biblioteca pessoal diversificada. 
+* Objetos e Lugares: Camila utiliza seu notebook para interagir em fóruns de leitura, além de usar seu celular para pesquisas e se comunicar. Frequenta bibliotecas da universidade e feiras do livro sempre em busca de obras mais acessíveis financeiramente.  
+* Objetivos chave: Camila busca ampliar sua coleção de livros de forma econômica, descobrir novos autores e obras, e conectar-se com outros leitores para compartilhar recomendações e experiências literárias. 
+* Nunca devemos: Criticar suas escolhas, muito menos desvalorizar seu conhecimento adquirido por meio da leitura. 
 
-**Links Úteis**:
 
-- [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-- [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-- [Rock Content](https://rockcontent.com/blog/personas/)
-- [Criar personas (Hotmart)](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
+* Persona 2 Fornecedor: Luiz, Aposentado  
+* Nome: Luiz 
+* Idade: 65 anos 
+* Hobby: Luiz passa a maior parte do seu tempo livre mergulhado em livros. Ele tem um grande acervo em casa e adora explorar novas histórias e conhecimentos. 
+* Trabalho: Luiz é aposentado e vende parte da sua coleção de livros para liberar espaço, compartilhar suas leituras favoritas com outros amantes da literatura e ter uma renda extra. 
+* Personalidade: Gentil, experiente e generoso. Luiz gosta de ajudar outras pessoas e compartilhar sua paixão pela leitura. 
+* Sonhos: Luiz sonha em viajar pelo mundo e espera incentivar o hábito da leitura em sua comunidade local. 
+* Objetos e Lugares: Luiz utiliza seu computador para descobrir novos livros e interagir com outros leitores e vender alguns de seus livros. Ele tem uma biblioteca em casa, onde guarda sua coleção de livros físicos. 
+* Objetivos chave: Luiz busca encontrar novos lares para seus livros, fazer novas amizades com outros leitores e continuar explorando o mundo da literatura em sua aposentadoria. 
+
+ 
+* Persona 3 Usuária/Fornecedora: Ana, Professora e Colecionadora de Livros 
+* Nome: Ana 
+* Idade: 40 anos 
+* Hobby: Desde criança Ana é apaixonada pela literatura e tem uma coleção pessoal que inclui obras de diferentes gêneros e autores. Ela adora explorar livrarias em busca de títulos raros. 
+* Trabalho: Ana é professora de literatura e vende parte de sua coleção de livros para renovar seu acervo pessoal e compartilhar suas paixões literárias com outros leitores. 
+* Personalidade: Culta, dedicada e organizada. Ana é uma pessoa que valoriza a educação e o conhecimento. 
+* Sonhos: Ana tem o sonho de publicar um livro próprio e abrir sua própria livraria. Ela também deseja inspirar seus alunos a amarem a leitura tanto quanto ela. 
+* Objetos e Lugares: Ana utiliza seu tablet e seu computador para encontrar novos títulos, administrar seus anúncios e interagir com outros leitores. Ela tem uma biblioteca em casa, onde guarda seus livros mais preciosos. 
+* Objetivos chave: Ana busca encontrar novos lares para seus livros usados, descobrir obras raras ou esgotadas para sua coleção pessoal e se conectar com outros leitores e profissionais da área literária. 
+* Nunca devemos: Ana pode se sentir desrespeitada se sua experiência como colecionadora e sua atuação como professora forem subestimadas. Criticar as suas escolhas de vender ou trocar livros também podem abalá-la.
+
 
 ## Histórias de Usuários
 
