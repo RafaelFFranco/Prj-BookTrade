@@ -59,3 +59,13 @@ Persona 3: Luiza, Consultora Literária Empreendedora
 * Nunca devemos: Ignorar suas recomendações literárias ou menosprezar sua experiência como consultora. Luiza fica indignada quando suas habilidades são desconsideradas ou quando é confrontada com desrespeito por sua profissão de consultora literária. 
 
  ## Público-Alvo
+
+ 
+ ## Histórias de Usuários
+
+ 1. **Avaliação de João:**
+Eu estava buscando uma forma de trocar alguns dos meus livros antigos por algo novo para ler e acabei descobrindo este site. A plataforma era simples e intuitiva. Rapidamente encontrei outros usuários interessados nos livros que eu tinha para oferecer e consegui realizar algumas trocas muito proveitosas. Fiquei surpreso com a diversidade de livros disponíveis para troca e com o quão fácil foi me comunicar com os demais usuários. Com certeza, pretendo utilizar o site novamente no futuro!
+2. **Avaliação de Maria:**
+Como uma leitora entusiasta, estou sempre em busca de maneiras de ampliar minha coleção de livros sem gastar muito. Encontrei este site de troca de livros recentemente e fiquei encantada! Gosto da possibilidade de listar os livros que quero trocar e procurar aqueles que desejo ler. A comunidade é acolhedora e já realizei algumas trocas excelentes. Minha única sugestão para aprimorar seria incluir um sistema de avaliações dos usuários, para garantir a confiabilidade das trocas.
+3. **Avaliação de Pedro:**
+Como universitário, estou sempre em busca de maneiras de economizar dinheiro com livros didáticos. Encontrei neste site de troca de livros uma solução muito útil. Consegui trocar alguns dos meus livros antigos por aqueles necessários para os meus estudos atuais. A plataforma do site é fácil de usar e a comunicação com outros usuários é ágil e descomplicada. Recomendaria esse site a qualquer pessoa interessada em poupar dinheiro com livros!
