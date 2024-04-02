@@ -30,7 +30,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 **Base:** Esta justificativa está baseada em diversas fontes de informações, incluindo pesquisas acadêmicas sobre os benefícios da leitura, estudos de mercado sobre hábitos de leitura e consumo de livros, análises de tendências de consumo sustentável e feedback de usuários potenciais obtido por meio de questionários e entrevistas. Essas fontes fornecem uma base sólida para entender a importância e a relevância deste projeto, bem como para definir objetivos específicos e direcionar o desenvolvimento da aplicação de troca de livros.
 
-## Publico Alvo
+## Público-Alvo
 
 ## Personas
 
@@ -69,8 +69,6 @@ Persona 3: Luiza, Consultora Literária Empreendedora
 * Objetos e lugares: Utiliza seu laptop para gerenciar sua empresa e se comunicar com clientes, mantém um caderno de anotações para registrar informações sobre seus clientes e suas preferências literárias, usa marcadores de página coloridos para organizar suas leituras, utiliza softwares de gerenciamento de clientes para acompanhar seu feedback e possui uma biblioteca digital com acesso a uma vasta gama de livros. 
 * Objetivos chave: Luiza busca identificar as necessidades de seus clientes, fornecer recomendações personalizadas, estabelecer parcerias com editoras e autores, promover eventos literários e criar conteúdo relevante sobre literatura. 
 * Nunca devemos: Ignorar suas recomendações literárias ou menosprezar sua experiência como consultora. Luiza fica indignada quando suas habilidades são desconsideradas ou quando é confrontada com desrespeito por sua profissão de consultora literária. 
-
- ## Público-Alvo
  
  ## Histórias de Usuários
 
@@ -81,6 +79,7 @@ Como uma leitora entusiasta, estou sempre em busca de maneiras de ampliar minha 
 3. **Avaliação de Pedro:**
 Como universitário, estou sempre em busca de maneiras de economizar dinheiro com livros didáticos. Encontrei neste site de troca de livros uma solução muito útil. Consegui trocar alguns dos meus livros antigos por aqueles necessários para os meus estudos atuais. A plataforma do site é fácil de usar e a comunicação com outros usuários é ágil e descomplicada. Recomendaria esse site a qualquer pessoa interessada em poupar dinheiro com livros!
 
+## Requisitos
 
 ## USER FLOW
 
@@ -124,3 +123,7 @@ Como universitário, estou sempre em busca de maneiras de economizar dinheiro co
 
 **Explorar Outros Recursos:**
 1. Além das trocas de livros, o usuário pode explorar outros recursos do site, como fóruns de discussão, comunidades, grupos no whatsapp.
+
+## Wireframes
+
+## Gestão de Projetos
