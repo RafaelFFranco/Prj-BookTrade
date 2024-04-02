@@ -42,13 +42,9 @@ Aqui você deve descrever os objetivos do trabalho indicando que o objetivo gera
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Porquê: Este tema foi escolhido devido à importância de promover a leitura, incentivar a sustentabilidade e criar uma comunidade de leitores. Uma aplicação de troca de livros proporciona uma oportunidade econômica e acessível para as pessoas obterem novos livros, ao mesmo tempo em que contribui para a redução do desperdício ao promover a reutilização de recursos existentes. Além disso, ao criar uma comunidade de leitores, a aplicação pode facilitar a troca de recomendações de leitura e promover a discussão sobre diferentes obras literárias.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-**Links Úteis**:
-
-- [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O que: A função deste projeto é desenvolver uma aplicação de troca de livros que permita aos usuários listar os livros que desejam trocar, procurar títulos de interesse e entrar em contato com outros usuários para organizar as trocas. A aplicação também pode incluir recursos de comunidade, como fóruns de discussão e avaliações de livros, para promover a interação entre os membros da comunidade de leitores.
 
 ## Público-Alvo
 
