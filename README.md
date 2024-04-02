@@ -85,8 +85,8 @@ Como universitário, estou sempre em busca de maneiras de economizar dinheiro co
 ## USER FLOW
 
 **Página Inicial:**
-1-O usuário acessa o site de troca de livros.
-2-Ele é recebido com uma página inicial que destaca os recursos principais do site e algumas recomendações de livros em destaque.
+1. O usuário acessa o site de troca de livros.
+2. Ele é recebido com uma página inicial que destaca os recursos principais do site e algumas recomendações de livros em destaque.
 
 **Registro/Login:**
 1-Se o usuário já possui uma conta, ele faz login.
