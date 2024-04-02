@@ -91,12 +91,30 @@ Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros
 
 ## Histórias de Usuários
 
-1. **Avaliação de João:**
-Eu estava buscando uma forma de trocar alguns dos meus livros antigos por algo novo para ler e acabei descobrindo este site. A plataforma era simples e intuitiva. Rapidamente encontrei outros usuários interessados nos livros que eu tinha para oferecer e consegui realizar algumas trocas muito proveitosas. Fiquei surpreso com a diversidade de livros disponíveis para troca e com o quão fácil foi me comunicar com os demais usuários. Com certeza, pretendo utilizar o site novamente no futuro!
-2. **Avaliação de Maria:**
-Como uma leitora entusiasta, estou sempre em busca de maneiras de ampliar minha coleção de livros sem gastar muito. Encontrei este site de troca de livros recentemente e fiquei encantada! Gosto da possibilidade de listar os livros que quero trocar e procurar aqueles que desejo ler. A comunidade é acolhedora e já realizei algumas trocas excelentes. Minha única sugestão para aprimorar seria incluir um sistema de avaliações dos usuários, para garantir a confiabilidade das trocas.
-3. **Avaliação de Pedro:**
-Como universitário, estou sempre em busca de maneiras de economizar dinheiro com livros didáticos. Encontrei neste site de troca de livros uma solução muito útil. Consegui trocar alguns dos meus livros antigos por aqueles necessários para os meus estudos atuais. A plataforma do site é fácil de usar e a comunicação com outros usuários é ágil e descomplicada. Recomendaria esse site a qualquer pessoa interessada em poupar dinheiro com livros!
+1. **Maria, a Apaixonada por Livros:**
+   - Como uma ávida leitora, Maria sempre está em busca de novos livros para alimentar sua paixão pela leitura.
+   - Desejo encontrar uma maneira econômica e conveniente de expandir sua coleção de livros sem gastar muito dinheiro.
+   - Para isso, Maria se cadastrou no site de troca de livros. Ela adora a facilidade de listar os livros que deseja trocar e navegar pela variedade de títulos disponíveis. Graças ao site, Maria conseguiu adquirir vários novos livros e compartilhar suas recomendações com outros membros da comunidade.
+
+2. **João, o Estudante Universitário:**
+   - Como estudante universitário, João está constantemente em busca de recursos acadêmicos para seus estudos.
+   - Desejo encontrar uma maneira acessível de obter os livros didáticos necessários para seus cursos, sem gastar uma fortuna.
+   - Para isso, João descobriu o site de troca de livros. Ele ficou impressionado com a variedade de títulos disponíveis e a facilidade de organizar trocas com outros estudantes. Graças ao site, João economizou dinheiro em livros didáticos e conheceu outros estudantes com interesses semelhantes.
+
+3. **André, o Entusiasta de Ficção Científica:**
+   - Como entusiasta de ficção científica, André está sempre em busca dos últimos lançamentos e clássicos do gênero.
+   - Desejo trocar minhas obras favoritas por novos títulos que ainda não li.
+   - Para isso, André se cadastrou no site de troca de livros. Ele ficou impressionado com a diversidade de obras disponíveis e encontrou outros fãs do gênero para realizar trocas. Graças ao site, André expandiu sua coleção de ficção científica e descobriu novos autores.
+
+4. **Isabela, a Professora de História:**
+   - Como professora de história, Isabela está sempre em busca de livros e materiais para enriquecer suas aulas.
+   - Desejo adquirir livros didáticos e obras de referência para meus alunos sem exceder o orçamento da escola.
+   - Para isso, Isabela se cadastrou no site de troca de livros. Ela encontrou uma variedade de títulos acadêmicos disponíveis e compartilhou recursos com outros educadores. Graças ao site, Isabela adquiriu novos materiais para suas aulas sem exceder o orçamento da escola.
+
+5. **Rafael, o Curioso por Diversidade Cultural:**
+   - Como curioso por diversidade cultural, Rafael está sempre interessado em explorar diferentes culturas e perspectivas.
+   - Desejo acessar uma variedade de livros sobre culturas, tradições e idiomas do mundo.
+   - Para isso, Rafael se cadastrou no site de troca de livros. Ele ficou fascinado com a diversidade de títulos disponíveis, expandindo seus horizontes e enriquecendo sua compreensão da diversidade cultural global.
 
 
 ## Requisitos
