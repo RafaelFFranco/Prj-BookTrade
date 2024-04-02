@@ -128,4 +128,4 @@ Como universitário, estou sempre em busca de maneiras de economizar dinheiro co
 
 ## Gestão de Projetos
 
-![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/130320728/75923121-e91d-45ca-a290-27cd9a383871)
+
