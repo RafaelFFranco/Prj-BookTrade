@@ -54,7 +54,7 @@ Base: Esta justificativa está baseada em diversas fontes de informações, incl
 
 ## Personas
 
-* Persona 1 Leitor: Camila, Estudante Universitária 
+Persona 1 Leitor: Camila, Estudante Universitária 
 * Nome: Camila 
 * Idade: 21 anos 
 * Hobby: Camila adora ler e está sempre em busca de novas histórias para se envolver. 
@@ -66,7 +66,7 @@ Base: Esta justificativa está baseada em diversas fontes de informações, incl
 * Nunca devemos: Criticar suas escolhas, muito menos desvalorizar seu conhecimento adquirido por meio da leitura. 
 
 
-* Persona 2 Fornecedor: Luiz, Aposentado  
+Persona 2 Fornecedor: Luiz, Aposentado  
 * Nome: Luiz 
 * Idade: 65 anos 
 * Hobby: Luiz passa a maior parte do seu tempo livre mergulhado em livros. Ele tem um grande acervo em casa e adora explorar novas histórias e conhecimentos. 
@@ -77,7 +77,7 @@ Base: Esta justificativa está baseada em diversas fontes de informações, incl
 * Objetivos chave: Luiz busca encontrar novos lares para seus livros, fazer novas amizades com outros leitores e continuar explorando o mundo da literatura em sua aposentadoria. 
 
  
-* Persona 3 Usuária/Fornecedora: Ana, Professora e Colecionadora de Livros 
+Persona 3 Usuária/Fornecedora: Ana, Professora e Colecionadora de Livros 
 * Nome: Ana 
 * Idade: 40 anos 
 * Hobby: Desde criança Ana é apaixonada pela literatura e tem uma coleção pessoal que inclui obras de diferentes gêneros e autores. Ela adora explorar livrarias em busca de títulos raros. 
