@@ -58,4 +58,4 @@ Persona 3: Luiza, Consultora Literária Empreendedora
 * Objetivos chave: Luiza busca identificar as necessidades de seus clientes, fornecer recomendações personalizadas, estabelecer parcerias com editoras e autores, promover eventos literários e criar conteúdo relevante sobre literatura. 
 * Nunca devemos: Ignorar suas recomendações literárias ou menosprezar sua experiência como consultora. Luiza fica indignada quando suas habilidades são desconsideradas ou quando é confrontada com desrespeito por sua profissão de consultora literária. 
 
- 
+ ** Público-Alvo
