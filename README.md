@@ -22,8 +22,6 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 ## Justificativa
 
-Aqui está uma justificativa baseada nas quatro regras valiosas mencionadas:
-
 **Porquê:** Este tema foi escolhido devido à importância de promover a leitura, incentivar a sustentabilidade e criar uma comunidade de leitores. Uma aplicação de troca de livros proporciona uma oportunidade econômica e acessível para as pessoas obterem novos títulos, ao mesmo tempo em que contribui para a redução do desperdício ao promover a reutilização de recursos existentes. Além disso, ao criar uma comunidade de leitores, a aplicação pode facilitar a troca de recomendações de leitura e promover a discussão sobre diferentes obras literárias.
 
 **O que:** A função deste projeto é desenvolver uma aplicação de troca de livros que permita aos usuários listar os livros que desejam trocar, procurar títulos de interesse e entrar em contato com outros usuários para organizar as trocas. A aplicação também pode incluir recursos de comunidade, como fóruns de discussão e avaliações de livros, para promover a interação entre os membros da comunidade de leitores.
@@ -33,6 +31,7 @@ Aqui está uma justificativa baseada nas quatro regras valiosas mencionadas:
 **Base:** Esta justificativa está baseada em diversas fontes de informações, incluindo pesquisas acadêmicas sobre os benefícios da leitura, estudos de mercado sobre hábitos de leitura e consumo de livros, análises de tendências de consumo sustentável e feedback de usuários potenciais obtido por meio de questionários e entrevistas. Essas fontes fornecem uma base sólida para entender a importância e a relevância deste projeto, bem como para definir objetivos específicos e direcionar o desenvolvimento da aplicação de troca de livros.
 
 ## Publico Alvo
+
 ## Personas
 
 Persona 1: Ana, Jornalista Literária 
@@ -72,7 +71,6 @@ Persona 3: Luiza, Consultora Literária Empreendedora
 * Nunca devemos: Ignorar suas recomendações literárias ou menosprezar sua experiência como consultora. Luiza fica indignada quando suas habilidades são desconsideradas ou quando é confrontada com desrespeito por sua profissão de consultora literária. 
 
  ## Público-Alvo
-
  
  ## Histórias de Usuários
 
