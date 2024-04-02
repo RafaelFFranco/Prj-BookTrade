@@ -77,7 +77,7 @@ Persona 2 Fornecedor: Luiz, Aposentado
 * Objetivos chave: Luiz busca encontrar novos lares para seus livros, fazer novas amizades com outros leitores e continuar explorando o mundo da literatura em sua aposentadoria. 
 
  
-Persona 3 Usuária/Fornecedora: Ana, Professora e Colecionadora de Livros 
+Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros 
 * Nome: Ana 
 * Idade: 40 anos 
 * Hobby: Desde criança Ana é apaixonada pela literatura e tem uma coleção pessoal que inclui obras de diferentes gêneros e autores. Ela adora explorar livrarias em busca de títulos raros. 
