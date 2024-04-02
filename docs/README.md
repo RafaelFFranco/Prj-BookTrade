@@ -20,11 +20,7 @@ Esta seção traz explicações breves sobre o conjunto de artefatos que precisa
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-A nossa aplicação pensa em resolver problemas de leitores que tem diversos livros em casa que já leu e só ficam guardados tomando espaço e que queiram renovar a sua estante de livro podendo fazer isso de uma forma Mais barata Comprando e revendendo Livros entre esses leitores Pensamos também na parte Sustentável do planeta pois não tem um consumo exagerado desses livros e possam não tomar espaço na estante desses leitores podendo ser efetuadas trocas e vendas por um valor mais justo por já serem livros usados.
-
-Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+A nossa aplicação pensa em resolver problemas de leitores que tem diversos livros em casa que já leu e só ficam guardados tomando espaço e que queiram renovar a sua estante de livro podendo fazer isso de uma forma Mais barata Comprando e revendendo Livros entre esses leitores Pensamos também na parte Sustentável do planeta pois não tem um consumo exagerado desses livros e possam não tomar espaço na estante desses leitores podendo ser efetuadas trocas e vendas por um valor mais justo por já serem livros usados. Utilizaremos as linguagens HTML/CSS e Java Script para desenvolvimento da plataforma,
 
 **Links Úteis**:
 
