@@ -66,26 +66,27 @@ Persona 1 Leitor: Camila, Estudante Universitária
 * Nunca devemos: Criticar suas escolhas, muito menos desvalorizar seu conhecimento adquirido por meio da leitura. 
 
 
-Persona 2 Fornecedor: Luiz, Aposentado  
-* Nome: Luiz 
-* Idade: 65 anos 
-* Hobby: Luiz passa a maior parte do seu tempo livre mergulhado em livros. Ele tem um grande acervo em casa e adora explorar novas histórias e conhecimentos. 
-* Trabalho: Luiz é aposentado e vende parte da sua coleção de livros para liberar espaço, compartilhar suas leituras favoritas com outros amantes da literatura e ter uma renda extra. 
-* Personalidade: Gentil, experiente e generoso. Luiz gosta de ajudar outras pessoas e compartilhar sua paixão pela leitura. 
+Persona 2 Fornecedor: Luiz, Dono de Livraria
+* Nome: Luiz
+* Idade: 65 anos
+* Profissão: Dono de uma livraria 
+* Hobby: Luiz passa a maior parte do seu tempo livre mergulhado em livros. Ele tem um grande acervo em sua livraria e adora explorar novas histórias e conhecimentos.
+* Personalidade: Gentil, experiente e generoso. Luiz gosta de ajudar outras pessoas e compartilhar sua paixão pela leitura com seus clientes.
 * Sonhos: Luiz sonha em viajar pelo mundo e espera incentivar o hábito da leitura em sua comunidade local. 
-* Objetos e Lugares: Luiz utiliza seu computador para descobrir novos livros e interagir com outros leitores e vender alguns de seus livros. Ele tem uma biblioteca em casa, onde guarda sua coleção de livros físicos. 
-* Objetivos chave: Luiz busca encontrar novos lares para seus livros, fazer novas amizades com outros leitores e continuar explorando o mundo da literatura em sua aposentadoria. 
+* Objetos e Lugares: Luiz utiliza seu computador para descobrir novos livros, interagir com outros leitores e vender alguns de seus livros. Ele tem uma biblioteca em casa, onde guarda sua coleção de livros físicos. 
+* Objetivos chave: Luiz busca encontrar novos lares para seus livros, fazer novas amizades com outros leitores e expandir as vendas da sua livraria por meios digitais.
+* Nunca devemos: Desconsiderar seu conhecimento e experiência, muito menos pressiona-lo a se afastar de sua livraria.
 
  
 Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros 
 * Nome: Ana 
 * Idade: 40 anos 
 * Hobby: Desde criança Ana é apaixonada pela literatura e tem uma coleção pessoal que inclui obras de diferentes gêneros e autores. Ela adora explorar livrarias em busca de títulos raros. 
-* Trabalho: Ana é professora de literatura e vende parte de sua coleção de livros para renovar seu acervo pessoal e compartilhar suas paixões literárias com outros leitores. 
+* Trabalho: Ana é professora de literatura e vende parte de sua coleção de livros para renovar seu acervo pessoal, compartilhar suas paixões literárias com outros leitores e obter uma renda extra.
 * Personalidade: Culta, dedicada e organizada. Ana é uma pessoa que valoriza a educação e o conhecimento. 
 * Sonhos: Ana tem o sonho de publicar um livro próprio e abrir sua própria livraria. Ela também deseja inspirar seus alunos a amarem a leitura tanto quanto ela. 
 * Objetos e Lugares: Ana utiliza seu tablet e seu computador para encontrar novos títulos, administrar seus anúncios e interagir com outros leitores. Ela tem uma biblioteca em casa, onde guarda seus livros mais preciosos. 
-* Objetivos chave: Ana busca encontrar novos lares para seus livros usados, descobrir obras raras ou esgotadas para sua coleção pessoal e se conectar com outros leitores e profissionais da área literária. 
+* Objetivos chave: Ana busca encontrar novos lares para seus livros usados, ter um lucro extra mensal, descobrir obras raras ou esgotadas para sua coleção pessoal e se conectar com outros leitores e profissionais da área literária. 
 * Nunca devemos: Ana pode se sentir desrespeitada se sua experiência como colecionadora e sua atuação como professora forem subestimadas. Criticar as suas escolhas de vender ou trocar livros também podem abalá-la.
 
 
