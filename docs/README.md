@@ -22,19 +22,11 @@ Esta seção traz explicações breves sobre o conjunto de artefatos que precisa
 
 A nossa aplicação pensa em resolver problemas de leitores que tem diversos livros em casa que já leu e só ficam guardados tomando espaço e que queiram renovar a sua estante de livro podendo fazer isso de uma forma Mais barata Comprando e revendendo Livros entre esses leitores Pensamos também na parte Sustentável do planeta pois não tem um consumo exagerado desses livros e possam não tomar espaço na estante desses leitores podendo ser efetuadas trocas e vendas por um valor mais justo por já serem livros usados. Utilizaremos as linguagens HTML/CSS e Java Script para desenvolvimento da plataforma,
 
-**Links Úteis**:
-
-- [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-- [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-- [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
 O projeto "Booktrade" visa resolver problemas de leitores que querem ler uma variedade de livros e não têm capital para investir. Assim, os leitores dispensam não só o desgaste físico de ir até uma livraria como também dispensam a árdua procura para encontrar os livros que desejam ler; além disso, o projeto considera a circunstância financeira da pessoa, visando em ajudá-a, dessa forma ela pode ou trocar ou comprar o livro utilizando a plataforma.
 
-**Links Úteis**:
-
-- [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -122,17 +114,17 @@ Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros
 
 Os requisitos de um projeto são classificados em dois grupos:
 
-- [Requisitos Funcionais (RF)]: RF1: Leitores e fornecedores podereão se cadastrar.
-                                RF2: Leitores e fornecedores poderão negociar dentro do sistema.
-                                RF3: Leitores poderão consultar livros.
-                                RF4: Fornecedores poderão casdastras livros no sistema para troca ou venda.
-                                RF5: Leitores poderão avaliar Fornecedores.
-                                RF6: Fornecedores poderão avaliar Leitores
-                                RF7: Leitores poderão filtrar a busca de livros por gênero litarário.
-  
-- [Requisitos Não Funcionais (RNF)]: RFN1: O sistema será desenvolvido usando HTML, CSS, JAVA.
-                                     RFN2: Suporte a diversos navegadores: Edge, Opera, Chrome, Firefox.
-                                     RFN2: Suporte a diversas plataformas (Computadores, Notebook, Tablet, Celulares).
+Requisitos Funcionais (RF): RF1: Leitores e fornecedores podereão se cadastrar. 
+                            RF2: Leitores e fornecedores poderão negociar dentro do sistema. 
+                            RF3: Leitores poderão consultar livros. 
+                            RF4: Fornecedores poderão casdastras livros no sistema para troca ou venda.
+                            RF5: Leitores poderão avaliar Fornecedores. 
+                            RF6: Fornecedores poderão avaliar Leitores 
+                            RF7: Leitores poderão filtrar a busca de livros por gênero litarário.
+
+Requisitos Não Funcionais (RNF): RFN1: O sistema será desenvolvido usando HTML, CSS, JAVA. 
+                                 RFN2: Suporte a diversos navegadores: Edge, Opera, Chrome, Firefox. 
+                                 RFN3: Suporte a diversas plataformas (Computadores, Notebook, Tablet, Celulares).
 
 
 
@@ -184,12 +176,6 @@ Os requisitos de um projeto são classificados em dois grupos:
 
 Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante ao layout de elementos fundamentais na interface.
 
-**Links Úteis**:
-
-- [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-- [Figma](https://www.figma.com/)
-- [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-- [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 
 ## Gestão de Projetos
 
