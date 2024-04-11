@@ -135,10 +135,6 @@ Os requisitos de um projeto são classificados em dois grupos:
                                      RFN2: Suporte a diversas plataformas (Computadores, Notebook, Tablet, Celulares).
 
 
-**Links Úteis**:
-
-- [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-- [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## User Flow
 
