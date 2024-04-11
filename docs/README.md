@@ -112,7 +112,6 @@ Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros
 
 ## Requisitos
 
-Os requisitos de um projeto são classificados em dois grupos:
 
 Requisitos Funcionais (RF): RF1: Leitores e fornecedores podereão se cadastrar. 
                             RF2: Leitores e fornecedores poderão negociar dentro do sistema. 
