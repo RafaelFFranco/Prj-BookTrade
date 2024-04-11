@@ -42,6 +42,10 @@ Como universitário, estou sempre em busca de maneiras de economizar dinheiro co
 
 ## Requisitos
 
+[Requisitos Funcionais (RF)]: RF1: Leitores e fornecedores podereão se cadastrar. RF2: Leitores e fornecedores poderão negociar dentro do sistema. RF3: Leitores poderão consultar livros. RF4: Fornecedores poderão casdastras livros no sistema para troca ou venda. RF5: Leitores poderão avaliar Fornecedores. RF6: Fornecedores poderão avaliar Leitores RF7: Leitores poderão filtrar a busca de livros por gênero litarário.
+
+[Requisitos Não Funcionais (RNF)]: RFN1: O sistema será desenvolvido usando HTML, CSS, JAVA. RFN2: Suporte a diversos navegadores: Edge, Opera, Chrome, Firefox. RFN2: Suporte a diversas plataformas (Computadores, Notebook, Tablet, Celulares).
+
 ## USER FLOW
 
 **Página Inicial:**
