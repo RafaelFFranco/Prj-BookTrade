@@ -98,6 +98,8 @@ Requisitos Não Funcionais (RNF): RFN1: O sistema será desenvolvido usando HTML
 1. Além das trocas de livros, o usuário pode explorar outros recursos do site, como fóruns de discussão, comunidades, grupos no whatsapp.
 
 ## Wireframes
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/4a7e98d6-a21c-4a07-9725-91045e10689b)
+
 
 ## Gestão de Projetos
 
