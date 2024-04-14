@@ -128,17 +128,19 @@ Persona 3 Leitor/Fornecedora: Ana, Professora e Colecionadora de Livros
 ## Requisitos
 
 
-Requisitos Funcionais (RF): RF1: Leitores e fornecedores podereão se cadastrar. 
-                            RF2: Leitores e fornecedores poderão negociar dentro do sistema. 
-                            RF3: Leitores poderão consultar livros. 
-                            RF4: Fornecedores poderão casdastras livros no sistema para troca ou venda.
-                            RF5: Leitores poderão avaliar Fornecedores. 
-                            RF6: Fornecedores poderão avaliar Leitores 
-                            RF7: Leitores poderão filtrar a busca de livros por gênero litarário.
+Requisitos Funcionais (RF):<br>
+RF1: Leitores e fornecedores podereão se cadastrar. <br>
+RF2: Leitores e fornecedores poderão negociar dentro do sistema. <br>
+RF3: Leitores poderão consultar livros. <br>
+RF4: Fornecedores poderão casdastras livros no sistema para troca ou venda.<br>
+RF5: Leitores poderão avaliar Fornecedores.<br> 
+RF6: Fornecedores poderão avaliar Leitores<br> 
+RF7: Leitores poderão filtrar a busca de livros por gênero litarário.<br>
 
-Requisitos Não Funcionais (RNF): RFN1: O sistema será desenvolvido usando HTML, CSS, JAVA. 
-                                 RFN2: Suporte a diversos navegadores: Edge, Opera, Chrome, Firefox. 
-                                 RFN3: Suporte a diversas plataformas (Computadores, Notebook, Tablet, Celulares).
+Requisitos Não Funcionais (RNF): <br>
+RFN1: O sistema será desenvolvido usando HTML, CSS, JAVA. <br>
+RFN2: Suporte a diversos navegadores: Edge, Opera, Chrome, Firefox. <br>
+RFN3: Suporte a diversas plataformas (Computadores, Notebook, Tablet, Celulares).<br>
 
 
 
