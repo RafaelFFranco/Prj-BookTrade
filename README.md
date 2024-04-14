@@ -99,6 +99,14 @@ Requisitos Não Funcionais (RNF): RFN1: O sistema será desenvolvido usando HTML
 
 ## Wireframes
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/4a7e98d6-a21c-4a07-9725-91045e10689b)
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/6b93e219-d1d2-41ea-833d-9808740e73a3)
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/c208adde-cce7-4345-82b3-96fa0452f2da)
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/b736ba2f-84da-4438-8b06-e6ad24478df1)
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/fa356499-e4c3-4938-a247-5721464e7ae2)
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/a94ce5ac-3344-46cd-9759-c54ff87e425a)
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/4998b134-59f4-4d07-b1ed-c00890c61d48)
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/b48956fc-0bef-4253-91d3-2395f6ff5616)
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/81992497-a197-492f-8089-c7fa7571f5e8)
 
 
 ## Gestão de Projetos
