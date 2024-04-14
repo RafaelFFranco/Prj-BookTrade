@@ -15,8 +15,8 @@ Pedro Mendonça Faria<br>
 Rafael de Faria Neves Alves Franco<br>
 
 
-
-3. Pensamos nesse projeto com intenção de ajudar os leitores a ter uma variedade de livros sem ter maiores gastos com livros novos, sendo que existem pessoas com livros que não usam mais e poderiam negociar entre si para chegar a um acordo entre os dois, assim também colaborando com o meio ambiente com menos consumo exagerado.
+<h3>Contexto:</h3>
+Pensamos nesse projeto com intenção de ajudar os leitores a ter uma variedade de livros sem ter maiores gastos com livros novos, sendo que existem pessoas com livros que não usam mais e poderiam negociar entre si para chegar a um acordo entre os dois, assim também colaborando com o meio ambiente com menos consumo exagerado.
 4. Concepção
 5. Realizar trocas e vendas de livros usados entre os usuários.
 6. Desenvolver uma plataforma on-line de negociação de livros entre usuarios para realizarem essas trocas sem maiores impecilios.
