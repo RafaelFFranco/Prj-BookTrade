@@ -204,6 +204,16 @@ Link Interativo: https://www.figma.com/proto/Xr1Bksb7Tlts17Fv9dmO7Z/Untitled?typ
 
 ## Gestão de Projetos
 
+Rachunhos de Wireframes: <br>
+Arthur Henrique Silva Gomes: Quem somo <br>
+Diogo Henrique Moreira da Silva: Pagina de login e Cadastro de Livros <br>
+Marcos de Oliveira Antunes: Avaliação da troca e Perfil de usuario< br> 
+Pedro Mendonça Faria: Pagina Filtro<br>
+Rafael de Faria Neves Alves Franco: Perfil do livro e Chat <br>
+Prototipo de Wireframe:
+Enzo Casaes Figueiró <br>
+Diogo Henrique Moreira da Silva<br>
+<br>
  Nesta parte do documento, você deve apresentar  o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
 
 Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
