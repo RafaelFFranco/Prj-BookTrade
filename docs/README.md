@@ -1,8 +1,8 @@
 # Documentação do Projeto (TIDocs)
-
-Esta pasta armazena a documentação do projeto para a disciplina de **Trabalho Interdisciplinar 1** dos cursos de Tecnologia da Informação da **[PUC Minas](https://pucminas.br)**. Essa documentação é estruturada na forma de um site que fica disponível por meio do GitHub Pages e pode ser incluído, também, no site da solução hospedada. Um [exemplo publicado do TIDocs](https://webtech-puc-minas.github.io/ti1-template/) está disponível por meio do repositório do **[WebTech PUC Minas](https://github.com/webtech-pucminas)**.
-
-A documentação do projeto inclui as seguintes seções:
+<! --
+Esta pasta armazena a documentação do projeto para a disciplina de **Trabalho Interdisciplinar 1** dos cursos de Tecnologia da Informação da **[PUC Minas](https://pucminas.br)**. Essa documentação é estruturada na forma de um site que fica disponível por meio do GitHub Pages e pode ser incluído, também, no site da solução hospedada. Um [exemplo publicado do TIDocs](https://webtech-puc-minas.github.io/ti1-template/) está disponível por meio do repositório do **[WebTech PUC Minas](https://github.com/webtech-pucminas)**.-->
+<! --
+A documentação do projeto inclui as seguintes seções:-->
 
 <h3> Introdução </h3>
 <h4>Projeto: Booktrade</h4>
@@ -27,9 +27,9 @@ Durante o projeto foi utilizado o Processo de Design Thinking assim como o Metod
 5. Realizar trocas e vendas de livros usados entre os usuários.
 6. Desenvolver uma plataforma on-line de negociação de livros entre usuarios para realizarem essas trocas sem maiores impecilios.
 7. FAQ (Questões frequentes)
-8. Referências Bibliográficas
+8. Referências Bibliográficas-->
 <! --
-O template para o site é estruturado e permite que a equipe evolua a documentação do projeto à medida que avance no desenvolvimento.
+O template para o site é estruturado e permite que a equipe evolua a documentação do projeto à medida que avance no desenvolvimento.-->
 
 # Orientações gerais
 
