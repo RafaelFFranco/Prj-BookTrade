@@ -14,7 +14,7 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 ## Professores responsáveis
 
 * João Paulo Aramuni
-* Michelle
+* Michelle Hanne Soares de Andrade
 
 ## Instruções de utilização
 
