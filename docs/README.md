@@ -17,6 +17,12 @@ Rafael de Faria Neves Alves Franco<br>
 
 <h3>Contexto:</h3>
 <p>Pensamos nesse projeto com intenção de ajudar os leitores a ter uma variedade de livros sem ter maiores gastos com livros novos, sendo que existem pessoas com livros que não usam mais e poderiam negociar entre si para chegar a um acordo entre os dois, assim também colaborando com o meio ambiente com menos consumo exagerado.</p>
+<h3>Metodologia</h3>
+Durante o projeto foi utilizado o Processo de Design Thinking assim como o Metodo Scrum.
+<h4>Ferramentas</h4>
+<p>Repositório de código:	GitHub -	[https://github.com/XXXXXXX](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/edit/master/docs/README.md)</p>
+<p>Protótipo Interativo:	 Figma - [https://figma.com/XXXXXXX](https://www.figma.com/proto/Xr1Bksb7Tlts17Fv9dmO7Z/Untitled?type=design&node-id=24-55&t=n9rulthDMC8iF4jC-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=24%3A55)</p>
+
 4. Concepção
 5. Realizar trocas e vendas de livros usados entre os usuários.
 6. Desenvolver uma plataforma on-line de negociação de livros entre usuarios para realizarem essas trocas sem maiores impecilios.
