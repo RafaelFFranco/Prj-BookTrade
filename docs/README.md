@@ -6,7 +6,7 @@ Esta pasta armazena a documentação do projeto para a disciplina de **Trabalho 
 <h4>Projeto: Booktrade</h4>
 <h4>Membros da equipe:</h4>
 Arthur Henrique Silva Gomes<br>
-Diogo Henrique Moreira da Sillva<br>
+Diogo Henrique Moreira da Silva<br>
 Enzo Casaes Figueiró<br>
 Marcos de Oliveira Antunes<br> 
 Pedro Mendonça Faria<br>
