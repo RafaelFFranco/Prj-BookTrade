@@ -43,9 +43,9 @@ Base: Esta justificativa está baseada em diversas fontes de informações, incl
 
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/130320728/d0cc31e9-08f5-4552-8f01-0e8bb5ea19ad)
 
-<p>Influentes:   .Livrarias
-               .Editoras
-               .Concorrentes</p>
+Influentes:   .Livrarias<br>
+               .Editoras<br>
+               .Concorrentes<br>
 *Importantes:  .Comunidade Literária
                .Autores/Escritores
                .Influenciadores Literarios
