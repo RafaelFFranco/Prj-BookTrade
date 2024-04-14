@@ -28,8 +28,8 @@ Durante o projeto foi utilizado o Processo de Design Thinking assim como o Metod
 6. Desenvolver uma plataforma on-line de negociação de livros entre usuarios para realizarem essas trocas sem maiores impecilios.
 7. FAQ (Questões frequentes)
 8. Referências Bibliográficas
-
-O template para o site é estruturado e permite que a equipe evolua a documentação do projeto à medida que avance no desenvolvimento.-->
+<! --
+O template para o site é estruturado e permite que a equipe evolua a documentação do projeto à medida que avance no desenvolvimento.
 
 # Orientações gerais
 
