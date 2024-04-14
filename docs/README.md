@@ -4,16 +4,15 @@ Esta pasta armazena a documentação do projeto para a disciplina de **Trabalho 
 
 A documentação do projeto inclui as seguintes seções:
 
-1. Introdução
-   Projeto: Booktrade
-Repositório GitHub: Template Trabalho Interdisciplinar
-Membros da equipe:
-Arthur Henrique Silva Gomes
-Diogo Henrique Moreira da Sillva
-Enzo Casaes Figueiró
-Marcos de Oliveira Antunes 
-Pedro Mendonça Faria
-Rafael de Faria Neves Alves Franco
+<h2> Introdução </h2>
+<h3>Projeto: Booktrade</h3> <br>
+<h3>Membros da equipe:</h3>
+Arthur Henrique Silva Gomes<br>
+Diogo Henrique Moreira da Sillva<br>
+Enzo Casaes Figueiró<br>
+Marcos de Oliveira Antunes<br> 
+Pedro Mendonça Faria<br>
+Rafael de Faria Neves Alves Franco<br>
 
 
 
