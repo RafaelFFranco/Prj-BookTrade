@@ -200,7 +200,7 @@ RFN3: Suporte a diversas plataformas (Computadores, Notebook, Tablet, Celulares)
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/b48956fc-0bef-4253-91d3-2395f6ff5616)
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade/assets/164037438/81992497-a197-492f-8089-c7fa7571f5e8)
 
-
+Link Interativo: https://www.figma.com/proto/Xr1Bksb7Tlts17Fv9dmO7Z/Untitled?type=design&node-id=24-55&t=n9rulthDMC8iF4jC-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=24%3A55
 
 ## Gestão de Projetos
 
