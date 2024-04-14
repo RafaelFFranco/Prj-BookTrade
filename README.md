@@ -1,6 +1,6 @@
-# Nome do projeto
+# BOOKTRADE
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+A leitura é um hábito que traz diversos benefícios para as pessoas; no entanto, colecionar livros pode se tornar um hobby caro. Por isso, apresentamos a proposta do Booktrade. Será um site onde os usuários poderão comprar ou vender seus livros usados. Deste modo, os leitores podem desfazer-se de livros que não têm mais interesse e ainda poderão conseguir outro livro que desejam ou até mesmo algum dinheiro. Assim, trazendo benefícios para todos, incluindo o planeta, uma vez que estimulará a circulação de livros usados.
 
 ## Alunos integrantes da equipe
 
