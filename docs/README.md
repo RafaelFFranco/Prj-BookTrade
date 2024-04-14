@@ -5,7 +5,7 @@ Esta pasta armazena a documentação do projeto para a disciplina de **Trabalho 
 A documentação do projeto inclui as seguintes seções:
 
 <h3> Introdução </h3>
-<h4>Projeto: Booktrade</h4> <br>
+<h4>Projeto: Booktrade</h4>
 <h4>Membros da equipe:</h4>
 Arthur Henrique Silva Gomes<br>
 Diogo Henrique Moreira da Sillva<br>
