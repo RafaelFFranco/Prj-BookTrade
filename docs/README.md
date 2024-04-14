@@ -5,12 +5,24 @@ Esta pasta armazena a documentação do projeto para a disciplina de **Trabalho 
 A documentação do projeto inclui as seguintes seções:
 
 1. Introdução
-2. Pensamos nesse projeto com intenção de ajudar os leitores a ter uma variedade de livros sem ter maiores gastos com livros novos, sendo que existem pessoas com livros que não usam mais e poderiam negociar entre si para chegar a um acordo entre os dois, assim também colaborando com o meio ambiente com menos consumo exagerado.
-3. Concepção
-4. Realizar trocas e vendas de livros usados entre os usuários.
-5. Desenvolver uma plataforma on-line de negociação de livros entre usuarios para realizarem essas trocas sem maiores impecilios.
-6. FAQ (Questões frequentes)
-7. Referências Bibliográficas
+   Projeto: Booktrade
+Repositório GitHub: Template Trabalho Interdisciplinar
+Membros da equipe:
+Arthur Henrique Silva Gomes
+Diogo Henrique Moreira da Sillva
+Enzo Casaes Figueiró
+Marcos de Oliveira Antunes 
+Pedro Mendonça Faria
+Rafael de Faria Neves Alves Franco
+
+
+
+3. Pensamos nesse projeto com intenção de ajudar os leitores a ter uma variedade de livros sem ter maiores gastos com livros novos, sendo que existem pessoas com livros que não usam mais e poderiam negociar entre si para chegar a um acordo entre os dois, assim também colaborando com o meio ambiente com menos consumo exagerado.
+4. Concepção
+5. Realizar trocas e vendas de livros usados entre os usuários.
+6. Desenvolver uma plataforma on-line de negociação de livros entre usuarios para realizarem essas trocas sem maiores impecilios.
+7. FAQ (Questões frequentes)
+8. Referências Bibliográficas
 
 O template para o site é estruturado e permite que a equipe evolua a documentação do projeto à medida que avance no desenvolvimento.
 
