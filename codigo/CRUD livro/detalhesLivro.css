@@ -1,11 +1,11 @@
 .container {
-    margin-top: 100px;
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
     display: grid;
     justify-content: center;
     grid-template-columns: auto auto;
-    background-color: gray;
+    background-color: rgb(201, 200, 200);
     padding: 50px;
     max-width: 800px; 
     width: 100%; 

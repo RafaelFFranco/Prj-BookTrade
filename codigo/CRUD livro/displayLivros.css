@@ -1,6 +1,13 @@
+body{
+    height: 100vh;
+}
+
 .card{
     margin-left: 10px; 
     margin-top: 10px;
+
+ 
+
 }
 .grid-container{
     display: grid;
@@ -20,6 +27,9 @@
     padding: 2px;
     margin-top: 5px;
     margin-left: 3px;
+}
+footer{
+    position: fixed;
 }
 
 @media (max-width:720px){
