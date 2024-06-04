@@ -1,0 +1,39 @@
+.container {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto;
+    background-color: gray;
+    padding: 50px;
+    max-width: 800px; 
+    width: 100%; 
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+.localizacao {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 20px;
+}
+
+.localizacao > p {
+    margin-right: 10px;
+}
+
+.form-group > p {
+    padding-bottom: 20px;
+    max-width: 500px;
+    overflow-y: auto;
+    align-content: left;
+}
+
+.foto {
+    margin: 0 auto;
+}
+
+.foto {
+    margin-right: 30px;
+}

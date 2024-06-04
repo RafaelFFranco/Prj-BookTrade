@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar Livro</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="cadastroLivro.css">
+    <script src="jquery-3.7.1.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <div id="logo">
+            <img src="Logo.png" alt="logo" style="width: 80px; height: 80px;">
+        </div>
+        <div id="nome">
+            Booktrade
+        </div>
+        <div id="user">
+            <img src="User-Icon.png" alt="" style="width: px; height: 70px;">
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <div class="foto">
+                <div class="foto-form">
+                    <input type="file" class="form-control" id="imagem" accept="image/*">
+                    <label for="imagem">+</label>
+                    <p>Adicione uma Imagem</p>
+                </div>
+            </div>
+            <div class="texto-form">
+                <div class="form-group">
+                    <label for="titulo">Título Livro</label> <br>
+                    <input type="text" class="form-control" id="titulo-livro" placeholder="Insira o título do livro">
+                </div>
+                <div class="localizacao">
+                    <div class="form-group">
+                        <label for="cidade">Cidade</label> <br>
+                        <input type="text" class="form-control" id="cidade" placeholder="Insira sua cidade">
+                    </div>
+                    <div class="form-group">
+                        <label for="estado">Estado (UF)</label> <br>
+                        <input type="text" class="form-control" id="estado" placeholder="Insira seu estado">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="descricao">Descrição</label> <br>
+                    <input type="text" class="form-control" id="descricao" placeholder="Insira uma descrição das condições do seu livro">
+                </div>
+                <div class="form-group">
+                    <label for="sinopse">Sinopse</label> <br>
+                    <input type="text" class="form-control" id="sinopse" placeholder="Insira a sinopse do livro">
+                </div>
+                <button class="button" type="submit" id="btnAtualizar">Atualizar</button>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>© Copyright 2024</p>
+    </footer>
+
+    <script src="cadastroLivro.js"></script>
+</body>
+
+</html>
